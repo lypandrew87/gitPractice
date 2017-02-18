@@ -18,5 +18,11 @@ public class Driver
       // use java.lang.System.out here
       out.println("name=" + harry.getName() + ",salary=" + harry.getSalary());
    }
+public static void toString(){
+
+return "Testing"; 
+
+}
+
 }
 
