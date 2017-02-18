@@ -32,7 +32,7 @@ public class Employee
 
    public void raiseSalary(double byPercent)
    {
-      double raise = salary * 50/ 100;
+      double raise = byDecimalValue;
       salary += raise;
    }
 
